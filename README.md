@@ -2,15 +2,15 @@
 
 This repository presents different Machine Learning models, divided into each of the tasks designed to be solved:
 
-1. Reduction dimension
+1. Dimension Reduction (DR)
    - Principal Componenet Analysis (PCA)
    - Kernel Principal Componenet Analysis (KPCA)
 
-3. Linear regression
+3. Linear Regression (LR)
 
-4. Clasificaction
+4. Clasificaction (Cla)
 
-5. Clustering
+5. Clustering (Clu)
 
 
 
