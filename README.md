@@ -5,6 +5,7 @@ This repository presents different Machine Learning models, divided into each of
 1. Dimension Reduction (DR)
    - Principal Componenet Analysis (PCA)
    - Kernel Principal Componenet Analysis (KPCA)
+   - Linear Discriminant Analysis (LDA)
 
 3. Linear Regression (LR)
 
