@@ -8,6 +8,9 @@ This repository presents different Machine Learning models, divided into each of
    - Linear Discriminant Analysis (LDA)
 
 3. Linear Regression (LR)
+   - Kernel Adaptative Filtering (KAF)
+   - Gaussian Process Regressor (GP)
+   - Kernel Ridge (KR)
 
 4. Clasificaction (Cla)
 
